@@ -124,7 +124,7 @@ text-shadow: 2px 2px #000;
 
 	.wrapper {
 		position: absolute;
-		width: 100%;
+		width: 103%;
 	}
 
 	.color-text {
@@ -366,9 +366,9 @@ text-shadow: 2px 2px #000;
 				border-bottom: 3px solid #d31145;
 			}
 
-			nav#mainnav {
+	nav#mainnav {
 	width: 100%;
-	height: 50px;
+	height: 55px;
 	background-color: #d31145;
 	overflow: hidden;
 	position: relative;
@@ -407,7 +407,7 @@ text-shadow: 2px 2px #000;
 
 	#parallax1, #parallax2, #parallax4 {
 		width: 100%;
-		height: 500px;
+		min-height: 500px;
 		background-color: #333;
 		position: relative;
 		overflow: hidden;
