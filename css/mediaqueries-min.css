@@ -241,4 +241,6 @@
   body {
     overflow-x: hidden; }
   .bg1, .bg2, .bg3, .bg4 {
-    background-size: 220%; } }
+    background-size: 220%; }
+  .quote {
+    font-size: .5em; } }
