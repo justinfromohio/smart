@@ -394,7 +394,7 @@ text-shadow: 2px 2px #000;
 			}
 
 			nav#mainnav .logo {
-				margin-top: 4px;
+				margin: 10px;
 			}
 
 			header .logo {
@@ -408,7 +408,7 @@ text-shadow: 2px 2px #000;
 
 	#parallax1, #parallax2, #parallax4 {
 		width: 100%;
-		min-height: 500px;
+		min-height: 400px;
 		background-color: #333;
 		position: relative;
 		overflow: hidden;
